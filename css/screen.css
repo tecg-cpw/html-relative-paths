@@ -1,0 +1,43 @@
+html{
+	background-color: rgb(241,241,241);
+	margin : 0;
+}
+body{
+	background-color: #fff;
+	padding: 0 2em;
+	font:20px/1.4 Chalkboard;
+	width:30em;
+	margin: 0 auto;
+	box-shadow: 0 0 5px #999;
+}
+h1{
+	color:#AA0E02;
+}
+h2{
+	color:#93BB41;
+}
+nav {
+	margin-bottom: 2em;
+}
+nav li, a {
+	color:blue;
+}
+header{
+	margin-left:-2em;
+	margin-right: -2em;
+	padding : 0.5em 2em;
+}
+footer{
+	margin-left:-2em;
+	margin-right: -2em;
+	padding : 0.5em 2em;
+	background-color: #472A7C;
+	color:white;
+}
+img{
+	display:block;
+	margin: auto;
+}
+ul{
+	margin-bottom: 0;
+}
