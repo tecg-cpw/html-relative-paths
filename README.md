@@ -1,6 +1,16 @@
-#Mon site
+# html-relative-paths
 
-##Énoncé
+> HTML exercise about (relative) paths
+
+* * *
+
+**html-relative-paths** is an educational project, which will be used for HTML courses.
+
+**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
+
+* * *
+
+## Exercice sur les chemins relatifs
 
 Réaliser le site « monSite » contenant 4 pages :
 
@@ -17,15 +27,14 @@ Vous trouverez également dans ce dossier des copies d’écran des outlines que
 
 Votre travail consiste à compléter les 4 fichiers html fournis en suivant les consignes indiquées en commentaire au début de chacun des fichiers.
 
+### Rappels théoriques et conseils
 
-##Rappels théoriques et conseils
-
-###Les ressources doivent être liées en utilisant les chemins relatifs :
+#### Les ressources doivent être liées en utilisant les chemins relatifs :
 
 - `./` = je reste où je suis
 - `../` = je remonte d’un niveau
 
-###Vos balises img doivent posséder 4 attributs reneignant :
+#### Vos balises img doivent posséder 4 attributs reneignant :
 
 -  l’adresse du fichier image 
 -  le texte alternatif
@@ -34,7 +43,7 @@ Votre travail consiste à compléter les 4 fichiers html fournis en suivant les 
 
 Consulter le livre de référence pour toutes informations utiles
 
-###vérifiez la correction typographique en vous servant du memento fourni au cours :
+#### Vérifiez la correction typographique en vous servant du memento fourni au cours :
 
 - apostrophes
 - guillemets
@@ -44,11 +53,11 @@ Consulter le livre de référence pour toutes informations utiles
 - ligatures
 - …
 
-###Bonnes pratiques à respecter :
+#### Bonnes pratiques à respecter :
 
 - Le texte alternatif d’une image doit être le texte contenu dans l’image lorsqu’il y en a un dans l’image (recommandation en matière d’accessibilité)
 
-##Résultats attendus
+### Résultats attendus
 
 Voici une capture d’écran de la page d’accueil avec la feuille de style appliquée :
 
@@ -72,7 +81,7 @@ Le plan de votre page 1 doit correspondre au résultat suivant :
 
 Les pages doivent bien entendu être valides.
 
-##Références utiles à lire en matière d’accessibilité :
+### Références utiles à lire en matière d’accessibilité :
 
 [Directives d’accessibilité concernant le title sur le site anysurfer](http://www.anysurfer.be/fr/en-pratique/directives/directive/2-2-1-chaque-page-possede-un-titre-significatif)
 
@@ -81,6 +90,3 @@ Les pages doivent bien entendu être valides.
 [L'attribut alt sur le site de la WAI](http://www.w3.org/WAI/GL/techniques.htm)
 
 [Contenu de l’attribut alt sur le site de la WAI](http://www.w3.org/WAI/GL/techniques.htm#Appendix%20B)
-
-
-
