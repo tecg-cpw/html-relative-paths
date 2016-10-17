@@ -1,40 +1,46 @@
-<!DOCTYPE html>  
-<!-- 
-* Complétez le head et nommez correctement la page
-* Balisez le contenu
-* Complétez les chemins relatifs et les attributs nécessaires pour
-  1. afficher correctement l’image
-  2. réaliser le menu
-* Veillez à la correction typographique de votre texte
--->
+<!DOCTYPE html>
 <html>
     <head>
-        <meta>
-        <link   rel="stylesheet"
-                type="text/css"
-                href="adresse_du_fichier_css"
-                media="screen"
-                title="Normal">
+        <meta charset="utf-8" />
+        <title>monSite - Page 2</title>
+        <link rel="stylesheet" href="../css/screen.css" />
     </head>
     <body>
-                Page 2 de mon site
-    
-                Ma page 2
-                    s'apelle p2.html 
-                    se trouve dans le dossier html de mon site
-                
-                Mon image sur la page 2
-                    Les devises Shadok : En essayant continuellement, on finit par réussir. Donc : plus ça rate, plus on a de chance que ça marche.
-            
-                Mon menu sur la page 2
-                    Un lien vers la page 1
-                    Un lien vers la page 2
-                    Un lien vers ma nouvelle page
-                    Retour vers la page d'accueil
-               
+        <header>
+            <h1>Page 2 de mon site</h1>
+
+            <h2>Ma page 2</h2>
+            <ul>
+                <li>s'apelle p2.html</li>
+                <li>se trouve dans le dossier html de mon site</li>
+            </ul>
+        </header>
+
+        <section>
+            <h2>Mon image sur la page 2</h2>
+            <img src="../img/img3.jpg" alt="Les devises Shadok : En essayant continuellement, on finit par réussir. Donc : plus ça rate, plus on a de chance que ça marche." />
+        </section>
+
+        <nav id="menu">
+            <h2>Mon menu sur la page d'accueil</h2>
+            <ul>
+                <li><a href="./p1.html">Un lien vers la page 1</a></li>
+                <li><a href="./p2.html">Un lien vers la page 2</a></li>
+                <li><a href="./nouveau/nv.html">Un lien vers ma nouvelle page</a></li>
+                <li><a href="../index.html">Retour vers la page d'accueil</a></li>
+            </ul>
+        </nav>
+
+        <footer>
+            <h2>
                 Mon footer
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fuga minus harum nisi tenetur veritatis dolores eveniet rem sit dignissimos consequatur iste id ab ! Iure sit hic non voluptatibus alias !  
-                
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fuga minus harum nisi tenetur veritatis dolores eveniet rem sit dignissimos consequatur iste id ab ! Iure sit hic non voluptatibus alias ! 
+            </h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fuga minus harum nisi tenetur veritatis dolores eveniet rem sit dignissimos consequatur iste id ab&nbsp;! Iure sit hic non voluptatibus alias!
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fuga minus harum nisi tenetur veritatis dolores eveniet rem sit dignissimos consequatur iste id ab&nbsp;! Iure sit hic non voluptatibus alias&nbsp;!
+            </p>
+        </footer>
     </body>
 </html>
