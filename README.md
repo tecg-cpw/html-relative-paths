@@ -19,13 +19,13 @@ Réaliser le site « monSite » contenant 4 pages :
 - page 2 (fichier `page2.html`)
 - nouvelle page (fichier `nv.html`)
 
-Les fichiers html, images et css sont fournis et déjà correctement organisés dans les dossiers et sous-dossiers requis. L’arboresence est la bonne et doit rester telle quelle, vous n’avez pas le droit d’y toucher. 
+Les fichiers html, images et css sont fournis et déjà correctement organisés dans les dossiers et sous-dossiers requis. L’arborescence est la bonne et doit rester telle quelle, vous n’avez pas le droit d’y toucher. 
 
-Les rendus finaux que vous devez obtenir se trouvent dans le dossier rendus.
+Les rendus finaux que vous devez obtenir se trouvent dans le dossier `rendus`.
 
-Vous trouverez également dans ce dossier des copies d’écran des outlines que vous devez obtenir pour la page d’accueil et la page 1 selon les deux algorithmes (html4 et html5). Les outlines à obtenir pour les deux autres pages sont semblables.
+Vous trouverez également dans ce dossier des copies d’écran des outlines que vous devez obtenir pour la page d’accueil et la page 1 selon les deux algorithmes (HTML 4 et HTML5). Les outlines à obtenir pour les deux autres pages sont semblables.
 
-Votre travail consiste à compléter les 4 fichiers html fournis en suivant les consignes indiquées en commentaire au début de chacun des fichiers.
+Votre travail consiste à compléter les quatre fichiers HTML fournis en suivant les consignes indiquées en commentaire au début de chacun des fichiers.
 
 ### Rappels théoriques et conseils
 
@@ -34,11 +34,11 @@ Votre travail consiste à compléter les 4 fichiers html fournis en suivant les 
 - `./` = je reste où je suis
 - `../` = je remonte d’un niveau
 
-#### Vos balises img doivent posséder 4 attributs reneignant :
+#### Vos balises img doivent posséder 4 attributs renseignant :
 
 -  l’adresse du fichier image 
 -  le texte alternatif
--  la largeur de l’imgae (pourquoi ?)
+-  la largeur de l’image (pourquoi ?)
 -  la hauteur de l’image (pourquoi ?)
 
 Consulter le livre de référence pour toutes informations utiles
@@ -83,9 +83,9 @@ Les pages doivent bien entendu être valides.
 
 ### Références utiles à lire en matière d’accessibilité :
 
-[Directives d’accessibilité concernant le title sur le site anysurfer](http://www.anysurfer.be/fr/en-pratique/directives/directive/2-2-1-chaque-page-possede-un-titre-significatif)
+[Directives d’accessibilité concernant le title sur le site anysurfer.be](http://www.anysurfer.be/fr/en-pratique/directives/directive/2-2-1-chaque-page-possede-un-titre-significatif)
 
-[Directives d’accessibilité concernant l’attribut alt d’une image sur le site anysurfer](http://www.anysurfer.be/fr/en-pratique/directives/directive/2-3-1-chaque-image-a-un-attribut-alt)
+[Directives d’accessibilité concernant l’attribut alt d’une image sur le site anysurfer.be](http://www.anysurfer.be/fr/en-pratique/directives/directive/2-3-1-chaque-image-a-un-attribut-alt)
 
 [L'attribut alt sur le site de la WAI](http://www.w3.org/WAI/GL/techniques.htm)
 
